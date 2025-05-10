@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Morjacob
 - 👀 I’m interested in ...learning about coding
-- 🌱 I’m currently ... a junior at USF studying Business Analytics and Information Systems
+- 🌱 I’m currently ... a senior at USF studying Business Analytics and Information Systems
 - 📫 How to reach me ... jacobmmori@gmail.com
 
 <!---
